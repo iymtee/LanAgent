@@ -1,0 +1,25 @@
+D:\.NET\LanAgent\Клиент\Клиент\bin\Debug\Клиент.exe.config
+D:\.NET\LanAgent\Клиент\Клиент\bin\Debug\Клиент.exe
+D:\.NET\LanAgent\Клиент\Клиент\bin\Debug\Клиент.pdb
+D:\.NET\LanAgent\Клиент\Клиент\bin\Debug\DllStruct.dll
+D:\.NET\LanAgent\Клиент\Клиент\bin\Debug\DllStruct.pdb
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.Main.resources
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csproj.CopyComplete
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.exe
+D:\.NET\LanAgent\Клиент\Клиент\obj\Debug\Клиент.pdb
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\bin\Debug\Клиент.exe
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\bin\Debug\Клиент.pdb
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\bin\Debug\DllStruct.dll
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\bin\Debug\DllStruct.pdb
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.Main.resources
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.csproj.CopyComplete
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.exe
+C:\Users\Shadow\Desktop\Новая папка\LanAgent\Клиент\Клиент\obj\Debug\Клиент.pdb

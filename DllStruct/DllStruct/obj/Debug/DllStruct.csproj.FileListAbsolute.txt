@@ -1,0 +1,6 @@
+D:\.NET\LanAgent\DllStruct\DllStruct\bin\Debug\DllStruct.dll
+D:\.NET\LanAgent\DllStruct\DllStruct\bin\Debug\DllStruct.pdb
+D:\.NET\LanAgent\DllStruct\DllStruct\obj\Debug\DllStruct.csproj.CoreCompileInputs.cache
+D:\.NET\LanAgent\DllStruct\DllStruct\obj\Debug\DllStruct.dll
+D:\.NET\LanAgent\DllStruct\DllStruct\obj\Debug\DllStruct.pdb
+D:\.NET\LanAgent\DllStruct\DllStruct\obj\Debug\DllStruct.csprojAssemblyReference.cache
